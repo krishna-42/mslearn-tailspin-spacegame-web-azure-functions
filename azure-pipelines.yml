@@ -113,5 +113,3 @@ stages:
                     "slotSetting": false
                   }
                 ]
-    - publish: '$(Build.ArtifactStagingDirectory)'
-      artifact: drop
